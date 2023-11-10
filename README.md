@@ -1,8 +1,5 @@
 <p align="center">
-    <picture>
-      <source srcset="docs/content/assets/img/doners-logo.png">
-      <img alt="DöNerS" title="DöNerS" src="docs/content/assets/img/doners.logo.png">
-    </picture>
+    <img src="docs/content/assets/img/doners-logo.png" alt="DöNerS Scale your DNS management in a secure way on Kubernetes" />
 </p>
 
 # DöNerS
